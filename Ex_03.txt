@@ -1,0 +1,10 @@
+Ivanov 23543.12
+Petrov 13749.32
+Sidorov 15565.64
+Generalov 100000.01
+Lenin 52123.25
+Stalin 85123.12
+Putin 2502.21
+Zhukov 73021.54
+Kirkorov 14561.22
+Kovalenko 18888.88
